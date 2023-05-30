@@ -1,0 +1,27 @@
+# Prisma
+/prisma/.env
+/prisma/*.db
+/prisma/migrations
+
+# Node.js / TypeScript
+/node_modules
+/dist
+/tsconfig.json
+/tsconfig.build.json
+
+# Editor / IDE
+.vscode
+.idea
+
+# Logs and testing
+/logs
+/coverage
+.nyc_output
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Miscellaneous
+.DS_Store
